@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudhirph
-- 👀 I’m interested in coding applications around crypto as well as non crypto to solve day today problems
+- 👀 I’m interested in coding applications 
 - 🌱 I’m currently learning Python, Go 
 - 💞️ I’m looking to collaborate on developing services around Meeting APIs and Scheduling APIs
 - 📫 How to reach me ...
